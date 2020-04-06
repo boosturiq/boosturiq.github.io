@@ -20,7 +20,7 @@ body
 }
 #quiz
 {
-	    height: 500px;
+	    height: auto;
     	width: 60%;
     	position: absolute;
     	left:20%;
@@ -111,7 +111,7 @@ font-family: 'Macondo', cursive;
 {
 	font-size:50px;
 	 text-align: center;
-    	 height: 200px;
+    	 height: auto;
     	width: 60%;
     	position: absolute;
     	left:20%;
